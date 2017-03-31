@@ -1,0 +1,18 @@
+PODS:
+  - MBProgressHUD (1.0.0)
+  - OpenSSL-Universal (1.0.1.19)
+  - pjsip (2.5.5.2):
+    - OpenSSL-Universal (= 1.0.1.19)
+
+DEPENDENCIES:
+  - MBProgressHUD
+  - pjsip
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  OpenSSL-Universal: 07489b0316f0f4f53c928e402e2ecbbedf96d93b
+  pjsip: ecfdeef822209118bc343a8f6a858f79cd66c10a
+
+PODFILE CHECKSUM: 5259d537387db5ec042e18ea803b4f759d8e5551
+
+COCOAPODS: 1.2.0.beta.1

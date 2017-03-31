@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  test1111
+//
+//  Created by 张莹莹 on 16/10/27.
+//  Copyright © 2016年 ZYY. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
+
+#import <pjsua-lib/pjsua.h>
+#import "UIView+CustomViewHUD.h"
